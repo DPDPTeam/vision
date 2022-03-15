@@ -1,4 +1,4 @@
-# Vision - Best Practices
+# Vision
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -14,21 +14,24 @@
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
-### Ajustes e melhorias
+## Best Practices
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Não utilizar caracteres especiais na nomeação de arquivos ex.: , /,~,",&,:,<,>,?,,(,).
+- [x] Não começar ou terminar nomes de arquivos com espaços. Ex: Personas
+- [x] Utilizar letra maiúscula no começo do arquivos/pastas. Por exemplo: Research.
+- [x] Siglas de times devem ser escritas em maiúsculo, pois facilita na busca e organização. Ex.: DPDP, DDS...
+- [x] As siglas de times estarão em um glossário para facilitar o entendimento de seus significados.
+- [x] Sempre que possível faça o upload de seus arquivos na intranet para que o seu acesso seja possível pelos seus colegas, assim evitando perda de arquivos.
+- [x] Evitar criar pastas desnecessariamente.
+- [x] Quando possível acrescentar palavras-chave e resumos de conteúdo em boards do Miro entre outros aplicativos.
 
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-## 📫 Contributing to the Vision
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+<!---## 📫 Contributing to the Vision
+Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
 1. Bifurque este repositório.
@@ -38,7 +41,7 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
+--->
 ## 🤝 Our Team
 
 This is the team who brought Vision to life
