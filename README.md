@@ -47,9 +47,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://i.imgur.com/csM96ao.jpeg" width="100px;" alt="Foto do Dogao"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Dogao</b>
         </sub>
       </a>
     </td>
