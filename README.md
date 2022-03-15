@@ -28,7 +28,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Quando possível acrescentar palavras-chave e resumos de conteúdo em boards do Miro entre outros aplicativos.
 --->
 
-## Best Practices
+## 👌Best Practices
 
   1. Não utilizar caracteres especiais na nomeação de arquivos
   
