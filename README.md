@@ -47,9 +47,9 @@ This is the team who brought Vision to life
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://i.imgur.com/csM96ao.jpeg" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/249968708_3490575031177542_6706514886473938143_n.jpg?ccb=11-4&oh=01_AVw8yzaq3k3KUWEmt1G28I1hC9q0kacPAxKe9QzfI6SCkw&oe=6236B54B" width="100px;" alt="Foto do Dogao"/><br>
         <sub>
-          <b>Dogao</b>
+          <b>Alice Osório</b>
         </sub>
       </a>
     </td>
