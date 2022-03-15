@@ -14,7 +14,7 @@
 
 > xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
-<!---## Best Practices
+<!---
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
@@ -27,6 +27,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Evitar criar pastas desnecessariamente.
 - [x] Quando possível acrescentar palavras-chave e resumos de conteúdo em boards do Miro entre outros aplicativos.
 --->
+
+## Best Practices
 
   1. Não utilizar caracteres especiais na nomeação de arquivos
   
