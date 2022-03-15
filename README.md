@@ -12,7 +12,7 @@
 
 <img src="vision_logo.jpeg" alt="Vision Logo">
 
-> Dell needs easier paths to information; and, to shorten distances, we need each other.
+> Turn the Vision on its ear. Expand it. Explore it. Embrace Our Vision.
 
 <!---
 
