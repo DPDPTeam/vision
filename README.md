@@ -12,7 +12,7 @@
 
 <img src="vision_logo.jpeg" alt="Vision Logo">
 
-> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+> Dell needs easier paths to information; and, to shorten distances, we need each other.
 
 <!---
 
