@@ -14,7 +14,7 @@
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
-## Best Practices
+<!---## Best Practices
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
@@ -26,14 +26,43 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Sempre que possível faça o upload de seus arquivos na intranet para que o seu acesso seja possível pelos seus colegas, assim evitando perda de arquivos.
 - [x] Evitar criar pastas desnecessariamente.
 - [x] Quando possível acrescentar palavras-chave e resumos de conteúdo em boards do Miro entre outros aplicativos.
+--->
+
+  1. Não utilizar caracteres especiais na nomeação de arquivos
+  
+    Ex: , /,~,",&,:,<,>,?,,(,).
+
+  2. Não começar ou terminar nomes de arquivos com espaços.
+
+  
+	Ex: Personas, Miro boards etc
+
+  3. Utilizar letra maiúscula no começo do arquivos/pastas.
+
+  
+	Ex: Research
+
+  4. Siglas de times devem ser escritas em maiúsculo, pois facilita na busca e organização.
+
+  
+	Ex.: DPDP, DDS...
+    As siglas de times estarão em um glossário para facilitar o entendimento de seus significados.
+  
+  5. Sempre que possível faça o upload de seus arquivos na intranet para que o seu acesso seja possível pelos seus colegas, assim evitando perda de arquivos.
 
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+  6. Evitar criar pastas desnecessariamente.
+
+  
+  7. Quando possível acrescentar palavras-chave e resumos de conteúdo em boards do Miro entre outros aplicativos.
+
+
+
 
 <!---## 📫 Contributing to the Vision
 Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado
 Para contribuir com <nome_do_projeto>, siga estas etapas:
-
+Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
