@@ -172,4 +172,3 @@ Want to be part of this project?? Click [HERE](CONTRIBUTING.md) and read how to 
 
 This project is under license. See it here [LICENSE](LICENSE.md) for more details.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
