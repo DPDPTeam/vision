@@ -1,5 +1,4 @@
 # Vision
-## made by all and for all
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -8,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/followers/DPDPTeam?style=flat-square)
 
 <img src="vision_logo.jpeg" alt="Vision Logo">
-
+## Made by all and for all
 > Turn the Vision on its ear. Expand it. Explore it. Embrace Our Vision.
 
 <!---
