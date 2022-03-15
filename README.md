@@ -164,12 +164,12 @@ This is the team who brought Vision to life
 </table>
 
 
-## 😄 Seja um dos contribuidores<br>
+## 😄 Be a contributor
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+Want to be part of this project?? Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See it here [LICENSE](LICENSE.md) for more details.
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
