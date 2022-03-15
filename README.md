@@ -6,7 +6,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/followers/DPDPTeam?style=flat-square)
 
-<img src="vision_logo.jpeg" alt="Vision Logo">
+<img src="logo.png" alt="Vision Logo">
 
 > Turn the Vision on its ear. Expand it. Explore it. Embrace Our Vision.
 
