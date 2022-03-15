@@ -87,7 +87,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/217261276_1600906840276831_961494185895252184_n.jpg?ccb=11-4&oh=01_AVzJE780BLp1ChdfzmOnB7v0fobYUzJrGfolgUwD9I4YKg&oe=6236220D" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/258977766_590439352164754_8914864912673641797_n.jpg?ccb=11-4&oh=d2df122517fcc0375aeac6d626ed3a3b&oe=6236BD45" width="100px;" alt="Foto do Dogao"/><br>
         <sub>
           <b>Henrique Martiny</b>
         </sub>
