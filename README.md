@@ -7,8 +7,10 @@
 ![GitHub forks](https://img.shields.io/github/followers/DPDPTeam?style=flat-square)
 
 <img src="vision_logo.jpeg" alt="Vision Logo">
-## Made by all and for all
+
 > Turn the Vision on its ear. Expand it. Explore it. Embrace Our Vision.
+
+### Made by all and for all
 
 <!---
 - [x] Não utilizar caracteres especiais na nomeação de arquivos ex.: , /,~,",&,:,<,>,?,,(,).
