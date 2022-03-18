@@ -1,6 +1,6 @@
 # Vision
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+<!--- https://shields.ioi --->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -25,33 +25,33 @@
 
 ## 👌Best Practices
 
-  1. Não utilizar caracteres especiais na nomeação de arquivos
+  1. Don't use special characters in file naming
   
     Ex: , /,~,",&,:,<,>,?,,(,).
 
-  2. Não começar ou terminar nomes de arquivos com espaços.
+  2. Don't start or end filenames with spaces.
 
   
 	Ex: Personas, Miro boards etc
 
-  3. Utilizar letra maiúscula no começo do arquivos/pastas.
+  3. Use capital letter at the beginning of files/folders.
 
   
-	Ex: Research
+	Ex: Research, Personas, Design...
 
-  4. Siglas de times devem ser escritas em maiúsculo, pois facilita na busca e organização.
+  4. Team acronyms should be written in capital letters and at the beginning, as it facilitates the search and organization.
 
   
 	Ex.: DPDP, DDS...
-    As siglas de times estarão em um glossário para facilitar o entendimento de seus significados.
+    Team acronyms will be in a glossary to facilitate understanding of their meanings.
   
-  5. Sempre que possível faça o upload de seus arquivos na intranet para que o seu acesso seja possível pelos seus colegas, assim evitando perda de arquivos.
+  5. Whenever possible, upload your files to the intranet so that your colleagues can access them, thus avoiding loss of files.
 
 
-  6. Evitar criar pastas desnecessariamente.
+  6. Try to avoid creating folders unnecessarily.
 
   
-  7. Quando possível acrescentar palavras-chave e resumos de conteúdo em boards do Miro entre outros aplicativos.
+  7. When possible, add keywords and content summaries to Miro boards and other applications.
 
 ## 🤝 Our Team
 
