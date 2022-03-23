@@ -23,36 +23,47 @@
 - [x] Quando possível acrescentar palavras-chave e resumos de conteúdo em boards do Miro entre outros aplicativos.
 --->
 
-## 👌Best Practices
+## 👌 File Organization Practices for Dell Designers Team
 
-  1. Don't use special characters in file naming
+  1. Don't use special characters in file naming.
   
     Ex: , /,~,",&,:,<,>,?,,(,).
 
-  2. Don't start or end filenames with spaces.
+  2. Use underscore (_) instead of spaces.
 
-  
-	Ex: Personas, Miro boards etc
+	Ex: Research_Personas...
 
   3. Use capital letter at the beginning of files/folders.
 
-  
 	Ex: Research, Personas, Design...
+	
+  3. Always name our file.
 
-  4. Team acronyms should be written in capital letters and at the beginning, as it facilitates the search and organization.
-
+  4. Team acronyms must maintain their structure, as it facilitates the search and organization. 
   
-	Ex.: DPDP, DDS...
-    Team acronyms will be in a glossary to facilitate understanding of their meanings.
+	Ex.: DPDP, DDS, DFx...
+    
+  5. Team acronyms  will be in a glossary to facilitate understanding of their meanings
   
-  5. Whenever possible, upload your files to the intranet so that your colleagues can access them, thus avoiding loss of files.
+  7. Whenever possible, upload your files to the intranet so that your colleagues can access them, thus avoiding loss of files.
 
+  8. Try to avoid creating folders unnecessarily.
 
-  6. Try to avoid creating folders unnecessarily.
-
+  9. When possible, add keywords, summaries and covers to Miro's boards.
   
-  7. When possible, add keywords and content summaries to Miro boards and other applications.
+	Ex.: Team building, Content, Design Feedback, Birthday Card...
+	
+ 10. Whenever possible, keep the filenames short. 	
 
+
+## Taxonomy for Dell Designers Team
+
+<team name abbreviation> <project name> <file name> <version>
+	
+	Ex: <DPDP> <Vision> <Taxonomy> <1.5>
+
+
+	
 ## 🤝 Our Team
 
 This is the team who brought Vision to life
