@@ -59,7 +59,7 @@
 ## 👓 Taxonomy for Dell Designers Team
 
 
-<team name abbreviation> <project name> <file name> <version>
+  1. <Team name abbreviation> <Project name> <File name> <Version>
 	
 	
 	Ex: <DPDP> <Vision> <Taxonomy> <1.5>
