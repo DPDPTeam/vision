@@ -1,24 +1,26 @@
 
-🙌 TEAMS AND PRODUCT'S ACRONYMS:
+# GLOSSARY
 
-CnE - Community and Enablement
-DAM - Digital Asset Management (the database where all the digital assets used in marcom live)
-DDS - Dell Design System
-DDSp- Dell Design System for Produc
-DDD - Dell Digital Design
-DFS - Dell Financial Service
-DPDP- Dell Product Design Program
-DPM - Dell Product Model
-PD  - Product Design
-FnC - Foundations and Component
+## 🙌 Teams and Product's acroyms: 
 
-🔊 WORKDAY'S ACRONYMS:
+1. CnE - Community and Enablement
+2. DAM - Digital Asset Management (the database where all the digital assets used in marcom live)
+3. DDS - Dell Design System
+4. DDSp- Dell Design System for Produc
+5. DDD - Dell Digital Design
+6. DFS - Dell Financial Service
+7. DPDP- Dell Product Design Program
+8. DPM - Dell Product Model
+10.PD  - Product Design
+11.FnC - Foundations and Component
 
-BRB - Be right back
-EOD - End of Day 
-EOW - End of Week
-FYI - For Your Information
-OOO - Out of office
-WIP - Work in progress
+## 🔊 Workday's acronyms: 
+
+1. BRB - Be right back
+2. EOD - End of Day 
+3. EOW - End of Week
+4. FYI - For Your Information
+5. OOO - Out of office
+6. WIP - Work in progress
 
 
