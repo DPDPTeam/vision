@@ -56,9 +56,9 @@
  10. Whenever possible, keep the filenames short. 	
 
 
-## 👓 Taxonomy for Dell Designers Team: <Team name abbreviation> <Project name> <File name> <Version>
-	
-	
+## 👓 Taxonomy for Dell Designers Team: 
+
+	<Team name abbreviation> <Project name> <File name> <Version>
 	Ex: <DPDP> <Vision> <Taxonomy> <1.5>
 
 
