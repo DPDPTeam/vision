@@ -72,7 +72,7 @@ This is the team who brought Vision to life
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/249968708_3490575031177542_6706514886473938143_n.jpg?ccb=11-4&oh=01_AVw8yzaq3k3KUWEmt1G28I1hC9q0kacPAxKe9QzfI6SCkw&oe=6236B54B" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/249968708_3490575031177542_6706514886473938143_n.jpg?ccb=11-4&oh=01_AVw8yzaq3k3KUWEmt1G28I1hC9q0kacPAxKe9QzfI6SCkw&oe=6236B54B" width="100px;" alt="Alice Osório"/><br>
         <sub>
           <b>Alice Osório</b>
         </sub>
@@ -80,7 +80,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/177329705_129357279450557_1067794598299105062_n.jpg?ccb=11-4&oh=2df82ebb72053b1bf7b5a95aa8b98d81&oe=6237747C" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/177329705_129357279450557_1067794598299105062_n.jpg?ccb=11-4&oh=2df82ebb72053b1bf7b5a95aa8b98d81&oe=6237747C" width="100px;" alt="Bernardo Bones"/><br>
         <sub>
           <b>Bernardo Bones</b>
         </sub>
@@ -88,7 +88,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/266712827_448262723612219_1052527153847201295_n.jpg?ccb=11-4&oh=01_AVyTwo8hbyZcWt1ythviztRV2NIbhrZ4HtKpu9ljwIV-_Q&oe=62377767" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/266712827_448262723612219_1052527153847201295_n.jpg?ccb=11-4&oh=01_AVyTwo8hbyZcWt1ythviztRV2NIbhrZ4HtKpu9ljwIV-_Q&oe=62377767" width="100px;" alt="Eduarda Seger"/><br>
         <sub>
           <b>Driele Ferreira</b>
         </sub>
@@ -96,7 +96,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/262881641_463575742139152_1928785380161390344_n.jpg?ccb=11-4&oh=01_AVxyHln1YgpS16JSJNmOdoWpDQ7Qgqp10zk86LRCInaKLw&oe=623698EB" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/262881641_463575742139152_1928785380161390344_n.jpg?ccb=11-4&oh=01_AVxyHln1YgpS16JSJNmOdoWpDQ7Qgqp10zk86LRCInaKLw&oe=623698EB" width="100px;" alt="Eduarda Seger"/><br>
         <sub>
           <b>Eduarda Seger</b>
         </sub>
@@ -104,7 +104,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/217261276_1600906840276831_961494185895252184_n.jpg?ccb=11-4&oh=01_AVzJE780BLp1ChdfzmOnB7v0fobYUzJrGfolgUwD9I4YKg&oe=6236220D" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/217261276_1600906840276831_961494185895252184_n.jpg?ccb=11-4&oh=01_AVzJE780BLp1ChdfzmOnB7v0fobYUzJrGfolgUwD9I4YKg&oe=6236220D" width="100px;" alt="Gabriel Fernandes"/><br>
         <sub>
           <b>Gabriel Fernandes</b>
         </sub>
@@ -112,7 +112,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/258977766_590439352164754_8914864912673641797_n.jpg?ccb=11-4&oh=d2df122517fcc0375aeac6d626ed3a3b&oe=6236BD45" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/258977766_590439352164754_8914864912673641797_n.jpg?ccb=11-4&oh=d2df122517fcc0375aeac6d626ed3a3b&oe=6236BD45" width="100px;" alt="Henrique Martiny"/><br>
         <sub>
           <b>Henrique Martiny</b>
         </sub>
@@ -120,7 +120,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/212724623_661671344882973_3981534051720028831_n.jpg?ccb=11-4&oh=01_AVz2wHD-wkB6DHoEMGMhxSThVbdYT1iB_PRuvWJDqmWRVg&oe=62379D04" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/212724623_661671344882973_3981534051720028831_n.jpg?ccb=11-4&oh=01_AVz2wHD-wkB6DHoEMGMhxSThVbdYT1iB_PRuvWJDqmWRVg&oe=62379D04" width="100px;" alt="Hugo Bonato"/><br>
         <sub>
           <b>Hugo Bonato</b>
         </sub>
@@ -128,7 +128,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/254032789_345898824087122_2343690213363636123_n.jpg?ccb=11-4&oh=01_AVz0BZDHacNQWCn3YUtqHC51JzhOUjPH5fNq8OzTGapl9A&oe=6237D260" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/254032789_345898824087122_2343690213363636123_n.jpg?ccb=11-4&oh=01_AVz0BZDHacNQWCn3YUtqHC51JzhOUjPH5fNq8OzTGapl9A&oe=6237D260" width="100px;" alt="Julia Reichert"/><br>
         <sub>
           <b>Julia Reichert</b>
         </sub>
@@ -136,7 +136,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/266785100_5249759988378120_4304158529734687447_n.jpg?ccb=11-4&oh=370ebadcce8d296924f132c71a6f0482&oe=6236C141" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/266785100_5249759988378120_4304158529734687447_n.jpg?ccb=11-4&oh=370ebadcce8d296924f132c71a6f0482&oe=6236C141" width="100px;" alt="Leonardo Granado"/><br>
         <sub>
           <b>Leonardo Granado</b>
         </sub>
@@ -144,7 +144,7 @@ This is the team who brought Vision to life
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://pps.whatsapp.net/v/t61.24694-24/56106096_313782222613118_1086924706424029184_n.jpg?ccb=11-4&oh=f6df2007ba2a3c38701cb4890d4b30c7&oe=62375E3B" width="100px;" alt="Foto do Dogao"/><br>
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/56106096_313782222613118_1086924706424029184_n.jpg?ccb=11-4&oh=f6df2007ba2a3c38701cb4890d4b30c7&oe=62375E3B" width="100px;" alt="Pietra Piva"/><br>
         <sub>
           <b>Pietra Piva</b>
         </sub>
