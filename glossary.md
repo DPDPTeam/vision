@@ -11,8 +11,8 @@
 6. DFS - Dell Financial Service
 7. DPDP- Dell Product Design Program
 8. DPM - Dell Product Model
-10.PD  - Product Design
-11.FnC - Foundations and Component
+10. PD  - Product Design
+11. FnC - Foundations and Component
 
 ## 🔊 Workday's acronyms: 
 
