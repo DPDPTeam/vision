@@ -40,6 +40,7 @@
   3. Always name our file.
 
   4. Team acronyms must maintain their structure, as it facilitates the search and organization. 
+     
      Click [HERE](glossary.md) to check the team acronyms glossary.
   
 	Ex.: DPDP, DDS, DFx...
